@@ -9,7 +9,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandle
 # ==============================
 #      الإعدادات وقاعدة البيانات
 # ==============================
-TOKEN = "8777038264:AAGr6TwS2mXccJqE-bI2QTGJ-QAGmw_pNbA"
+TOKEN = "8288709496:AAEmnpFtAtAu5SV9n3rn3VjhD7T-qxJ0WlA"
 DB_PATH = "db.sqlite"
 
 def get_db_connection():
